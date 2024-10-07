@@ -1,5 +1,5 @@
 name: github workflow
-one:
+on:
   push:
     branches:
       - main
